@@ -1,4 +1,4 @@
-– Infrastructure DevOps Intern Assessment (Synthlane)
+
 # Infrastructure DevOps Intern Assessment – Synthlane
 
 ## Environment
